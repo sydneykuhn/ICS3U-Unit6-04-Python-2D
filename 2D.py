@@ -26,8 +26,8 @@ def main():
     a_2d_list = []
 
     # input
-    rows_as_string = (input("How many row would you like: "))
-    columns_as_string = (input("How many columns would you like: "))
+    rows_as_string = input("How many row would you like: ")
+    columns_as_string = input("How many columns would you like: ")
     print("\n")
 
     try:
